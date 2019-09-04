@@ -10,6 +10,11 @@ zhongyuan 的个人博客
 
 ### 最新
 
+* [mybatis-generator自动生成代码工具](https://www.zsyfw.cn/articles/2019/09/03/1567525728642.html)
+* [flyway数据库管理工具](https://www.zsyfw.cn/articles/2019/09/03/1567523814503.html)
+* [git常用命令](https://www.zsyfw.cn/articles/2019/09/03/1567523730273.html)
+* [linux常用命令](https://www.zsyfw.cn/articles/2019/09/03/1567523659000.html)
+* [sql替换not in查询](https://www.zsyfw.cn/articles/2019/09/03/1567523511515.html)
 * [正则练习](https://www.zsyfw.cn/articles/2019/09/01/1567349138741.html)
 * [15 - 异常](https://www.zsyfw.cn/articles/2019/09/01/1567349138535.html)
 * [08 - 二维数组与方法(函数)](https://www.zsyfw.cn/articles/2019/09/01/1567349138337.html)
@@ -25,11 +30,6 @@ zhongyuan 的个人博客
 * [程序员](https://www.zsyfw.cn/articles/2019/09/01/1567349136319.html)
 * [20 - 2 - io](https://www.zsyfw.cn/articles/2019/09/01/1567349136094.html)
 * [管理权限](https://www.zsyfw.cn/articles/2019/09/01/1567349135891.html)
-* [14 - 2 常用api2 正则表达式](https://www.zsyfw.cn/articles/2019/09/01/1567349135669.html)
-* [mybatis开发dao的方法](https://www.zsyfw.cn/articles/2019/09/01/1567349135466.html)
-* [12 - 构造 this super](https://www.zsyfw.cn/articles/2019/09/01/1567349135257.html)
-* [21 - 1 - 线程](https://www.zsyfw.cn/articles/2019/09/01/1567349135043.html)
-* [24 - jsonandxml](https://www.zsyfw.cn/articles/2019/09/01/1567349134711.html)
 
 ### 热门
 
