@@ -10,6 +10,7 @@ zhongyuan 的个人博客
 
 ### 最新
 
+* [restFul风格API](https://www.zsyfw.cn/articles/2019/09/11/1568216239030.html)
 * [树状图实现方式](https://www.zsyfw.cn/articles/2019/09/09/1568042556862.html)
 * [mybatis-generator自动生成代码工具](https://www.zsyfw.cn/articles/2019/09/03/1567525728642.html)
 * [flyway数据库管理工具](https://www.zsyfw.cn/articles/2019/09/03/1567523814503.html)
@@ -29,12 +30,12 @@ zhongyuan 的个人博客
 * [工厂与装饰者模式](https://www.zsyfw.cn/articles/2019/09/01/1567349136733.html)
 * [集合练习](https://www.zsyfw.cn/articles/2019/09/01/1567349136536.html)
 * [程序员](https://www.zsyfw.cn/articles/2019/09/01/1567349136319.html)
-* [20 - 2 - io](https://www.zsyfw.cn/articles/2019/09/01/1567349136094.html)
 
 ### 热门
 
 * [世界，你好！](https://www.zsyfw.cn/hello-solo)
 * [管理权限](https://www.zsyfw.cn/articles/2019/09/01/1567349135891.html)
+* [20 - 2 - io](https://www.zsyfw.cn/articles/2019/09/01/1567349136094.html)
 * [13 - 关键字 访问修饰符 内部类](https://www.zsyfw.cn/articles/2019/09/01/1567349122376.html)
 * [mybatis和hibernate本质区别和应用场景](https://www.zsyfw.cn/articles/2019/09/01/1567349122820.html)
 * [java对象间的依赖关系](https://www.zsyfw.cn/articles/2019/09/01/1567349123291.html)
@@ -52,10 +53,10 @@ zhongyuan 的个人博客
 * [11 - 面向对象之多态](https://www.zsyfw.cn/articles/2019/09/01/1567349126728.html)
 * [单一职责原则](https://www.zsyfw.cn/articles/2019/09/01/1567349126960.html)
 * [18 - Map](https://www.zsyfw.cn/articles/2019/09/01/1567349127179.html)
-* [request&response](https://www.zsyfw.cn/articles/2019/09/01/1567349127417.html)
 
 ### 热议
 
+* [request&response](https://www.zsyfw.cn/articles/2019/09/01/1567349127417.html)
 * [mybatis配置文件](https://www.zsyfw.cn/articles/2019/09/01/1567349127666.html)
 * [01 - 计算机基础知识01](https://www.zsyfw.cn/articles/2019/09/01/1567349127905.html)
 * [JSP&EL&JSTL](https://www.zsyfw.cn/articles/2019/09/01/1567349128207.html)
@@ -75,7 +76,6 @@ zhongyuan 的个人博客
 * [Java新特性](https://www.zsyfw.cn/articles/2019/09/01/1567349131548.html)
 * [05b - intellij idea的使用](https://www.zsyfw.cn/articles/2019/09/01/1567349131769.html)
 * [20 - 1 - io](https://www.zsyfw.cn/articles/2019/09/01/1567349131982.html)
-* [07 - 数组与排序](https://www.zsyfw.cn/articles/2019/09/01/1567349132215.html)
 
 ---
 
