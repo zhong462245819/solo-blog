@@ -10,6 +10,7 @@ zhongyuan 的个人博客
 
 ### 最新
 
+* [消息队列mq](https://www.zsyfw.cn/articles/2019/09/15/1568554749662.html)
 * [restFul风格API](https://www.zsyfw.cn/articles/2019/09/11/1568216239030.html)
 * [树状图实现方式](https://www.zsyfw.cn/articles/2019/09/09/1568042556862.html)
 * [mybatis-generator自动生成代码工具](https://www.zsyfw.cn/articles/2019/09/03/1567525728642.html)
@@ -29,10 +30,10 @@ zhongyuan 的个人博客
 * [JDBC](https://www.zsyfw.cn/articles/2019/09/01/1567349136921.html)
 * [工厂与装饰者模式](https://www.zsyfw.cn/articles/2019/09/01/1567349136733.html)
 * [集合练习](https://www.zsyfw.cn/articles/2019/09/01/1567349136536.html)
-* [程序员](https://www.zsyfw.cn/articles/2019/09/01/1567349136319.html)
 
 ### 热门
 
+* [程序员](https://www.zsyfw.cn/articles/2019/09/01/1567349136319.html)
 * [世界，你好！](https://www.zsyfw.cn/hello-solo)
 * [管理权限](https://www.zsyfw.cn/articles/2019/09/01/1567349135891.html)
 * [20 - 2 - io](https://www.zsyfw.cn/articles/2019/09/01/1567349136094.html)
@@ -52,10 +53,10 @@ zhongyuan 的个人博客
 * [多表查询](https://www.zsyfw.cn/articles/2019/09/01/1567349126485.html)
 * [11 - 面向对象之多态](https://www.zsyfw.cn/articles/2019/09/01/1567349126728.html)
 * [单一职责原则](https://www.zsyfw.cn/articles/2019/09/01/1567349126960.html)
-* [18 - Map](https://www.zsyfw.cn/articles/2019/09/01/1567349127179.html)
 
 ### 热议
 
+* [18 - Map](https://www.zsyfw.cn/articles/2019/09/01/1567349127179.html)
 * [request&response](https://www.zsyfw.cn/articles/2019/09/01/1567349127417.html)
 * [mybatis配置文件](https://www.zsyfw.cn/articles/2019/09/01/1567349127666.html)
 * [01 - 计算机基础知识01](https://www.zsyfw.cn/articles/2019/09/01/1567349127905.html)
@@ -75,7 +76,6 @@ zhongyuan 的个人博客
 * [jdk的下载安装与环境变量的配置](https://www.zsyfw.cn/articles/2019/09/01/1567349131337.html)
 * [Java新特性](https://www.zsyfw.cn/articles/2019/09/01/1567349131548.html)
 * [05b - intellij idea的使用](https://www.zsyfw.cn/articles/2019/09/01/1567349131769.html)
-* [20 - 1 - io](https://www.zsyfw.cn/articles/2019/09/01/1567349131982.html)
 
 ---
 
