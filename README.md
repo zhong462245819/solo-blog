@@ -10,6 +10,7 @@ zhong--yuan的个人博客
 
 ### 最新
 
+* [ON DUPLICATE KEY UPDATE批量插入记录，遇到重复记录则为自动更新](https://www.zsyfw.cn/articles/2019/10/13/1570959755359.html)
 * [消息队列mq](https://www.zsyfw.cn/articles/2019/09/15/1568554749662.html)
 * [restFul风格API](https://www.zsyfw.cn/articles/2019/09/11/1568216239030.html)
 * [树状图实现方式](https://www.zsyfw.cn/articles/2019/09/09/1568042556862.html)
@@ -29,7 +30,6 @@ zhong--yuan的个人博客
 * [mybatis核心映射](https://www.zsyfw.cn/articles/2019/09/01/1567349137928.html)
 * [程序员](https://www.zsyfw.cn/articles/2019/09/01/1567349136319.html)
 * [集合练习](https://www.zsyfw.cn/articles/2019/09/01/1567349136536.html)
-* [20 - 2 - io](https://www.zsyfw.cn/articles/2019/09/01/1567349136094.html)
 
 ### 热门
 
@@ -67,6 +67,7 @@ zhong--yuan的个人博客
 * [微服务-概念](https://www.zsyfw.cn/articles/2019/09/01/1567349125295.html)
 * [18 - Map](https://www.zsyfw.cn/articles/2019/09/01/1567349127179.html)
 * [13 - 关键字 访问修饰符 内部类](https://www.zsyfw.cn/articles/2019/09/01/1567349122376.html)
+* [20 - 2 - io](https://www.zsyfw.cn/articles/2019/09/01/1567349136094.html)
 * [我在 GitHub 上的开源项目](https://www.zsyfw.cn/my-github-repos)
 * [23 - 反射](https://www.zsyfw.cn/articles/2019/09/01/1567349128698.html)
 * [工厂与装饰者模式](https://www.zsyfw.cn/articles/2019/09/01/1567349136733.html)
@@ -75,7 +76,6 @@ zhong--yuan的个人博客
 * [20 - 3 - io](https://www.zsyfw.cn/articles/2019/09/01/1567349126249.html)
 * [01 - 计算机基础知识01](https://www.zsyfw.cn/articles/2019/09/01/1567349127905.html)
 * [mybatisi多对多映射](https://www.zsyfw.cn/articles/2019/09/01/1567349126007.html)
-* [mybatis和hibernate本质区别和应用场景](https://www.zsyfw.cn/articles/2019/09/01/1567349122820.html)
 
 ---
 
