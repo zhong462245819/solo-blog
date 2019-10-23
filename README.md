@@ -34,6 +34,7 @@ zhong--yuan的个人博客
 ### 热门
 
 * [20 - 2 - io](https://www.zsyfw.cn/articles/2019/09/01/1567349136094.html)
+* [工厂与装饰者模式](https://www.zsyfw.cn/articles/2019/09/01/1567349136733.html)
 * [06 - Java流程控制语句0](https://www.zsyfw.cn/articles/2019/09/01/1567349134098.html)
 * [05a - java基础语法](https://www.zsyfw.cn/articles/2019/09/01/1567349133809.html)
 * [Java新特性](https://www.zsyfw.cn/articles/2019/09/01/1567349131548.html)
@@ -52,10 +53,10 @@ zhong--yuan的个人博客
 * [24 - jsonandxml](https://www.zsyfw.cn/articles/2019/09/01/1567349134711.html)
 * [Filter&Listener](https://www.zsyfw.cn/articles/2019/09/01/1567349129527.html)
 * [动态sql](https://www.zsyfw.cn/articles/2019/09/01/1567349125786.html)
-* [查询缓存](https://www.zsyfw.cn/articles/2019/09/01/1567349132457.html)
 
 ### 热议
 
+* [查询缓存](https://www.zsyfw.cn/articles/2019/09/01/1567349132457.html)
 * [管理权限](https://www.zsyfw.cn/articles/2019/09/01/1567349135891.html)
 * [单例模式](https://www.zsyfw.cn/articles/2019/09/01/1567349129730.html)
 * [mybatis配置文件](https://www.zsyfw.cn/articles/2019/09/01/1567349127666.html)
@@ -70,7 +71,6 @@ zhong--yuan的个人博客
 * [13 - 关键字 访问修饰符 内部类](https://www.zsyfw.cn/articles/2019/09/01/1567349122376.html)
 * [我在 GitHub 上的开源项目](https://www.zsyfw.cn/my-github-repos)
 * [23 - 反射](https://www.zsyfw.cn/articles/2019/09/01/1567349128698.html)
-* [工厂与装饰者模式](https://www.zsyfw.cn/articles/2019/09/01/1567349136733.html)
 * [JDBC](https://www.zsyfw.cn/articles/2019/09/01/1567349136921.html)
 * [04 - java之旅](https://www.zsyfw.cn/articles/2019/09/01/1567349124687.html)
 * [20 - 3 - io](https://www.zsyfw.cn/articles/2019/09/01/1567349126249.html)
