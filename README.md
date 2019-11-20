@@ -37,6 +37,7 @@ zhong--yuan的个人博客
 * [20 - 2 - io](https://www.zsyfw.cn/articles/2019/09/01/1567349136094.html)
 * [12 - 构造 this super](https://www.zsyfw.cn/articles/2019/09/01/1567349135257.html)
 * [我在 GitHub 上的开源项目](https://www.zsyfw.cn/my-github-repos)
+* [jq&Ajax](https://www.zsyfw.cn/articles/2019/09/01/1567349132883.html)
 * [Http&servlet](https://www.zsyfw.cn/articles/2019/09/01/1567349133107.html)
 * [单一职责原则](https://www.zsyfw.cn/articles/2019/09/01/1567349126960.html)
 * [06 - Java流程控制语句0](https://www.zsyfw.cn/articles/2019/09/01/1567349134098.html)
@@ -52,10 +53,10 @@ zhong--yuan的个人博客
 * [02 - 计算机网络基础01](https://www.zsyfw.cn/articles/2019/09/01/1567349129269.html)
 * [03 - 计算机网络基础01](https://www.zsyfw.cn/articles/2019/09/01/1567349124246.html)
 * [09 - 面向对象之封装](https://www.zsyfw.cn/articles/2019/09/01/1567349124999.html)
-* [java对象间的依赖关系](https://www.zsyfw.cn/articles/2019/09/01/1567349123291.html)
 
 ### 热议
 
+* [java对象间的依赖关系](https://www.zsyfw.cn/articles/2019/09/01/1567349123291.html)
 * [request&response](https://www.zsyfw.cn/articles/2019/09/01/1567349127417.html)
 * [24 - jsonandxml](https://www.zsyfw.cn/articles/2019/09/01/1567349134711.html)
 * [Filter&Listener](https://www.zsyfw.cn/articles/2019/09/01/1567349129527.html)
@@ -75,7 +76,6 @@ zhong--yuan的个人博客
 * [13 - 关键字 访问修饰符 内部类](https://www.zsyfw.cn/articles/2019/09/01/1567349122376.html)
 * [23 - 反射](https://www.zsyfw.cn/articles/2019/09/01/1567349128698.html)
 * [JDBC](https://www.zsyfw.cn/articles/2019/09/01/1567349136921.html)
-* [04 - java之旅](https://www.zsyfw.cn/articles/2019/09/01/1567349124687.html)
 
 ---
 
